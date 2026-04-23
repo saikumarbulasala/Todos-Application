@@ -73,9 +73,9 @@ This project strengthens core JavaScript concepts and demonstrates the ability t
 ---
 
 👨‍💻 Author
-Saikumar Bulasala
-Software Engineer | B.Tech IT Student
-Passionate about building scalable and user-centric web applications
+  Saikumar Bulasala
+  Software Engineer | B.Tech IT Student
+  Passionate about building scalable and user-centric web applications
 ---
 
 ⭐ Show Your Support
