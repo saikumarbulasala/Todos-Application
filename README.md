@@ -84,8 +84,5 @@ This project strengthens core JavaScript concepts and demonstrates the ability t
 ---
 
 ⭐ Show Your Support
-
 If you found this project useful, consider giving it a ⭐ on GitHub!
-⭐ Show Your Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
