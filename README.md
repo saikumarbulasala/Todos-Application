@@ -33,19 +33,19 @@ The project demonstrates strong fundamentals in frontend development, including 
 
 🛠️ Tech Stack
 
--> Frontend: HTML5, CSS3, Bootstrap
--> Programming: JavaScript (ES6)
--> Storage: Browser LocalStorage
+- Frontend: HTML5, CSS3, Bootstrap
+- Programming: JavaScript (ES6)
+- Storage: Browser LocalStorage
 
 ---
 
 🧠 Key Concepts Demonstrated
 
--> DOM Manipulation
--> Event-Driven Programming
--> Dynamic Element Creation
--> State Management using JavaScript
--> Local Storage Integration
+- DOM Manipulation
+- Event-Driven Programming
+- Dynamic Element Creation
+- State Management using JavaScript
+- Local Storage Integration
 
 ---
 
@@ -67,22 +67,25 @@ This project strengthens core JavaScript concepts and demonstrates the ability t
 
 🚀 Future Enhancements
 
--> ✏️ Edit existing tasks
--> 📅 Add due dates and reminders
--> 🌙 Dark mode support
--> 🔐 Backend integration with authentication
--> ⚛️ Migration to React for scalability
+- ✏️ Edit existing tasks
+- 📅 Add due dates and reminders
+- 🌙 Dark mode support
+- 🔐 Backend integration with authentication
+- ⚛️ Migration to React for scalability
 
 ---
 
 👨‍💻 Author
-  Saikumar Bulasala
-  Software Engineer || B.Tech IT Student
-  
-  Passionate about building scalable and user-centric web applications
-  
+
+Saikumar Bulasala
+Software Engineer | B.Tech IT Student
+Passionate about building scalable and user-centric web applications
+
 ---
 
+⭐ Show Your Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub!
 ⭐ Show Your Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
